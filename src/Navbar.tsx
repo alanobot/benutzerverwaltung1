@@ -19,7 +19,7 @@ export default function Navbar() {
             
               <li className="nav-item">
                 <Link className="nav-link" to="userEdit">
-                  EDIT
+                  ADD
                 </Link>
               </li>
              

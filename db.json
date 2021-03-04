@@ -47,20 +47,38 @@
       "strasse": "Friedensweg 8",
       "plz": "8810",
       "ort": "Horgen"
-    },  {
+    },
+    {
       "id": 7,
       "name": "Rajput",
       "vorname": "Tamanna",
-      "strasse":"Am Stadtrand 53a",
+      "strasse": "Am Stadtrand 53a",
       "plz": "8600",
-      "ort":"Dübendorf"
-    },  {
+      "ort": "Dübendorf"
+    },
+    {
       "id": 8,
       "name": "Emir",
       "vorname": "Simge",
-      "strasse":"Langgrütstrasse 52",
+      "strasse": "Langgrütstrasse 52",
       "plz": "8047",
-      "ort":"Zürich"
+      "ort": "Zürich"
+    },
+    {
+      "id": 9,
+      "name": "Parmaksiz",
+      "vorname": "Alan",
+      "strasse": "Adlibogenstrase",
+      "plz": 8155,
+      "ort": "Niederhasli"
+    },
+    {
+      "id": 10,
+      "name": "Parmaksiz",
+      "vorname": "Alan",
+      "strasse": "Adlibogenstrase",
+      "plz": 8155,
+      "ort": "Niederhasli"
     }
   ]
 }
