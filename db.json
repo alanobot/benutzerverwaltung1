@@ -1,19 +1,66 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Parmaksiz",
+      "vorname": "Alan",
+      "strasse": "Adlibogenstrasse 15",
+      "plz": "8155",
+      "ort": "Niederhasli"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Dettlaff",
+      "vorname": "Mateusz",
+      "strasse": "Bahnhofstrasse 245",
+      "plz": "8620",
+      "ort": "Wetzikon"
+    },
+    {
+      "id": 3,
+      "name": "Hehlen",
+      "vorname": "Stefan",
+      "strasse": "Rohrstrasse 28",
+      "plz": "3507",
+      "ort": "Biglen"
+    },
+    {
+      "id": 4,
+      "name": "Miceli",
+      "vorname": "Dennis",
+      "strasse": "Bahnhofstrasse 15",
+      "plz": "8851",
+      "ort": "Altendorf"
+    },
+    {
+      "id": 5,
+      "name": "Schunk",
+      "vorname": "Nikolai",
+      "strasse": "Hohenbühlstrasse 8",
+      "plz": "8032",
+      "ort": "Zürich"
+    },
+    {
+      "id": 6,
+      "name": "Koch",
+      "vorname": "Ronja",
+      "strasse": "Friedensweg 8",
+      "plz": "8810",
+      "ort": "Horgen"
+    },  {
+      "id": 7,
+      "name": "Rajput",
+      "vorname": "Tamanna",
+      "strasse":"Am Stadtrand 53a",
+      "plz": "8600",
+      "ort":"Dübendorf"
+    },  {
+      "id": 8,
+      "name": "Emir",
+      "vorname": "Simge",
+      "strasse":"Langgrütstrasse 52",
+      "plz": "8047",
+      "ort":"Zürich"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
